@@ -56,10 +56,10 @@
 
 
 
-#Module 2: Negotiation
-#Module 3: Zincit
-#Module 4: Outpsider
-#Module 5: Advanced Topics
-#Module 6: Linda Babcock: Ask for It
-#Module 7: Herb Cohen: You can negotiate anything
-#Module 8: John McCall MacBain: The Consummate Dealmaker
+###Module 2: Negotiation
+###Module 3: Zincit
+###Module 4: Outpsider
+###Module 5: Advanced Topics
+###Module 6: Linda Babcock: Ask for It
+###Module 7: Herb Cohen: You can negotiate anything
+###Module 8: John McCall MacBain: The Consummate Dealmaker
