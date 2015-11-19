@@ -13,7 +13,6 @@
   * What things are worth
   * Exploring ways they can each benefit from agreement and grow the pie
 
-####————————————————————
 * What happens if the negotiation is successful and what happens if the negotiation fails and complete individually
 * What A & B can get on their own vs. what they can get together
 * *What is the gain available = what the pie is*
