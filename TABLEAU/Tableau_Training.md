@@ -32,6 +32,7 @@
 * Why do big data projects fail
   1. 75% organizations 25% technical
 * Talk to and understand your stakeholders
+
 #####The Framework
 * Trying to find the right question to ask
 * Asking more questions reduces the need to have all the answers
