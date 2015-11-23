@@ -37,3 +37,55 @@
 * Trying to find the right question to ask
 * Asking more questions reduces the need to have all the answers
   -Donald Peterson, former CEO of Ford
+
+#####Rock Projects
+* **Define very clearly what value the data is supposed to create**
+
+#####S.M.A.R.T. Objectives
+* Need to know what business problem you/they are trying to solve
+* Have a meeting with those who are funding the projects
+  * What problem is this business having that you hope to solve by developing this project?
+  * Can you tell me more about how this problem is affecting the business?
+  * What is your ideal outcome of this project?
+* SMART Statement reflect goal of analysis project - George Duran
+  * Specific
+  * Measurable
+  * Attainable
+  * Relevant
+  * Time-bound
+* How should my business metric change if my recommendations are put into action, and by how much?
+* Specific and Measurable
+  * Metric is the dependent variable
+  * What independent variables would impact the dependent variable
+* How far along is your company in embracing big data culture
+* Show your SMART goals to stakeholders
+* Elicitation Session: The process of drawing out or bringing forth, gathering information directly from people
+* Goals
+  1. Identify you key stakeholders
+  2. Identify independent variables to test
+  3. Determine whether stakeholders agree about problem to be solved
+* What has been tried before and how did it turn out?
+* application of issues, data governance
+* analytics continuum
+  1. descriptive analytics: hindsight ~ what happened, what’s happening
+  2. diagnostic analytics: why things are happening ~ root cause analysis
+  3. predictive analytics: trajectory ~ what is going to happen, likely scenarios
+  4. prescriptive analytics: recommendations 
+* 2 analytics team: trusted original and new scientific method using analytics
+
+##### Using Structured Pyramid Analysis Plan (SPAPs) to Structure Your Thinking
+* SMART goal on top
+* independent variables middle
+  * write as specific field calculation
+* Specific analyses to run & graphs to make
+* my mapping software: http://mindmapfree.com
+* organize variables in a logical way
+* layer two is categories of issues
+* layer 2 is categories of behaviors
+* layer 3 is marketing strategies of success
+* layer 4 how to breakdown / aggregate
+* layer 5 exactly what variable from what data source
+  * color for know, may know, and no idea where source is
+  * helps determine what critical data is missing
+* prioritize each independent variable and reorder which path is available
+* method of communication
